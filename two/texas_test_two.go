@@ -1,5 +1,7 @@
 package two
 
-func ccc(){
-	fmt.println("ccc")
+import "fmt"
+
+func ccc() {
+	fmt.Println("aaaaaaaaa")
 }

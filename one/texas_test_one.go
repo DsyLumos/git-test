@@ -1,5 +1,7 @@
 package one
 
-func aaa(){
-	fmt.println("aaaaaaaaa")
+import "fmt"
+
+func aaa() {
+	fmt.Println("aaaaaaaaa")
 }
