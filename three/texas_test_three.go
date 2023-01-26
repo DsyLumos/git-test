@@ -1,5 +1,7 @@
 package three
 
-func bbb(){
-	fmt.println("bbbbbbbb")
+import "fmt"
+
+func bbb() {
+	fmt.Println("aaaaaaaaa")
 }
